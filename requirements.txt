@@ -1,0 +1,6 @@
+Flask>=3.0
+requests>=2.32
+mutagen>=1.47
+librosa>=0.11
+demucs>=4.0
+# System dependencies: ffmpeg, yt-dlp
