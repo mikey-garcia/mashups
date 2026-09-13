@@ -11,3 +11,9 @@ library/
 *.flac
 
 .env
+downloads/
+stems/
+.pytest_cache/
+*.db
+*.db-*
+*.sqlite*

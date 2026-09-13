@@ -1,0 +1,5 @@
+librosa>=0.11,<0.12
+demucs==4.0.1
+# Demucs uses torchaudio APIs removed in newer releases. Install a matched pair.
+torch>=2.1,<2.6
+torchaudio>=2.1,<2.6
